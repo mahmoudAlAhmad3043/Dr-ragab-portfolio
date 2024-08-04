@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mahmoudAlAhmad3043/Dr-ragab-portfolio.git/static/css/main.750b05a5.css",
+    "main.js": "/mahmoudAlAhmad3043/Dr-ragab-portfolio.git/static/js/main.87273dd8.js",
+    "static/media/home-img.png": "/mahmoudAlAhmad3043/Dr-ragab-portfolio.git/static/media/home-img.3b135c273bea90006a7e.png",
+    "index.html": "/mahmoudAlAhmad3043/Dr-ragab-portfolio.git/index.html",
+    "main.750b05a5.css.map": "/mahmoudAlAhmad3043/Dr-ragab-portfolio.git/static/css/main.750b05a5.css.map",
+    "main.87273dd8.js.map": "/mahmoudAlAhmad3043/Dr-ragab-portfolio.git/static/js/main.87273dd8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.750b05a5.css",
+    "static/js/main.87273dd8.js"
+  ]
+}
