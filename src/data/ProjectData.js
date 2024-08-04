@@ -1,7 +1,13 @@
 // --------------------------------------- Project List
+import img1 from "./../img/ykte-feature-graphic.png";
+import img2 from "./../img/renr-responsive.png";
+import img3 from "./../img/mymind-responsive.png";
+import img4 from "./../img/pokedex-responsive.png";
+import img5 from "./../img/jobDetect.png";
+
 export const ProjectList = [
   {
-    img: "/ykte-feature-graphic.png",
+    img: img1,
     title: "Pet Friends",
     description:
       "Pet friends group",
@@ -10,7 +16,7 @@ export const ProjectList = [
     demo_url: "https://www.petfriendsgroup.net/",
   },
   {
-    img: "/renr-responsive.png",
+    img: img2 ,
     title: "Pet Friends",
     description:
       "Pet friends group",
@@ -19,7 +25,7 @@ export const ProjectList = [
     demo_url: "https://www.petfriendsgroup.net/",
   },
   {
-    img: "/mymind-responsive.png",
+    img:img3,
     title: "Pet Friends",
     description:
       "Pet friends group",
@@ -28,7 +34,7 @@ export const ProjectList = [
     demo_url: "https://www.petfriendsgroup.net/",
   },
   {
-    img: "/pokedex-responsive.png",
+    img: img4,
     title: "Pet Friends",
     description:
       "Pet friends group",
@@ -37,7 +43,7 @@ export const ProjectList = [
     demo_url: "https://www.petfriendsgroup.net/",
   },
   {
-    img: "/jobDetect.png",
+    img: img5,
     title: "Pet Friends",
     description:
       "Pet friends group",

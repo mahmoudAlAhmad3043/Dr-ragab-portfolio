@@ -1,8 +1,10 @@
 import React from "react";
 import styled from "@emotion/styled";
+import img4 from "./../../img/footer-bg2.png"
+
 
 const FooterSection = styled.div`
-  background-image: url(/footer-bg2.png);
+  background-image: url(${img4});
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;

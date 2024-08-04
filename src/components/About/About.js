@@ -1,5 +1,7 @@
 import React from "react";
 import { stackList } from "../../data/ProjectData";
+import img3 from "./../../img/Dr-Ragab-img.PNG";
+
 import {
   Image,
   Technologies,
@@ -19,7 +21,7 @@ function About() {
           <Image
             width={200}
             height={140}
-            src="/Dr-Ragab-img.PNG"
+            src={img3}
             alt="man-svgrepo"
           />
         </ScrollAnimation>
