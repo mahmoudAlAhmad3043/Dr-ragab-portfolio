@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Dr-ragab-portfolio/static/css/main.081baadc.css",
-    "main.js": "/Dr-ragab-portfolio/static/js/main.154a4ab7.js",
-    "static/media/home-img.png": "/Dr-ragab-portfolio/static/media/home-img.3b135c273bea90006a7e.png",
-    "index.html": "/Dr-ragab-portfolio/index.html",
-    "main.081baadc.css.map": "/Dr-ragab-portfolio/static/css/main.081baadc.css.map",
-    "main.154a4ab7.js.map": "/Dr-ragab-portfolio/static/js/main.154a4ab7.js.map"
+    "main.css": "/static/css/main.afbdc5cd.css",
+    "main.js": "/static/js/main.53304262.js",
+    "static/media/home-img.png": "/static/media/home-img.3b135c273bea90006a7e.png",
+    "index.html": "/index.html",
+    "main.afbdc5cd.css.map": "/static/css/main.afbdc5cd.css.map",
+    "main.53304262.js.map": "/static/js/main.53304262.js.map"
   },
   "entrypoints": [
-    "static/css/main.081baadc.css",
-    "static/js/main.154a4ab7.js"
+    "static/css/main.afbdc5cd.css",
+    "static/js/main.53304262.js"
   ]
 }
