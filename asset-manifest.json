@@ -1,17 +1,22 @@
 {
   "files": {
     "main.css": "/Dr-ragab-portfolio/static/css/main.081baadc.css",
-    "main.js": "/Dr-ragab-portfolio/static/js/main.28f91dc9.js",
+    "main.js": "/Dr-ragab-portfolio/static/js/main.19eeb0e2.js",
     "static/media/home-img.png": "/Dr-ragab-portfolio/static/media/home-img.3b135c273bea90006a7e.png",
+    "static/media/mymind-responsive.png": "/Dr-ragab-portfolio/static/media/mymind-responsive.d38fe2f01dd0038d8e9e.png",
+    "static/media/pokedex-responsive.png": "/Dr-ragab-portfolio/static/media/pokedex-responsive.f3df08ceddd1f827720f.png",
     "static/media/footer-bg2.png": "/Dr-ragab-portfolio/static/media/footer-bg2.198fa4bcf256011e76f6.png",
+    "static/media/renr-responsive.png": "/Dr-ragab-portfolio/static/media/renr-responsive.879e47dc4b9c4cfc25f3.png",
     "static/media/Dr-Ragab-img.PNG": "/Dr-ragab-portfolio/static/media/Dr-Ragab-img.15d0b33401ca91ca13c5.PNG",
+    "static/media/ykte-feature-graphic.png": "/Dr-ragab-portfolio/static/media/ykte-feature-graphic.e9f768cc3c703a088553.png",
+    "static/media/jobDetect.png": "/Dr-ragab-portfolio/static/media/jobDetect.5bcccc5da231fd50c816.png",
     "static/media/scroll-down.svg": "/Dr-ragab-portfolio/static/media/scroll-down.3cee4291b4cfe1171a2b4c493c1085c3.svg",
     "index.html": "/Dr-ragab-portfolio/index.html",
     "main.081baadc.css.map": "/Dr-ragab-portfolio/static/css/main.081baadc.css.map",
-    "main.28f91dc9.js.map": "/Dr-ragab-portfolio/static/js/main.28f91dc9.js.map"
+    "main.19eeb0e2.js.map": "/Dr-ragab-portfolio/static/js/main.19eeb0e2.js.map"
   },
   "entrypoints": [
     "static/css/main.081baadc.css",
-    "static/js/main.28f91dc9.js"
+    "static/js/main.19eeb0e2.js"
   ]
 }
